@@ -182,6 +182,7 @@ main section p, main section li, footer p{
 }
 
 #gallery a{
+    margin-top: 1rem;
     text-align: center;
     display: block;
     border-radius: 5px;
